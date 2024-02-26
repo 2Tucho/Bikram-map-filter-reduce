@@ -90,7 +90,7 @@ let result5 = condicion.map((item, i) => {
         price: 459
     },
     {
-        name: 'Viaje a cancún',
+        name: 'Viaje a Cancún',
         price: 600
     },
     {
